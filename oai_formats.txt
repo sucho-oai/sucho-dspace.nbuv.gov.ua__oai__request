@@ -1,0 +1,12 @@
+uketd_dc
+dim
+oai_dc
+marc
+etdms
+xoai
+qdc
+rdf
+ore
+mods
+mets
+didl
